@@ -1,7 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'http://localhost:8080/api';
-
+const BASE_URL = 'https://medibook-3-zhb9.onrender.com/api';
 const api = axios.create({ baseURL: BASE_URL });
 
 // Attach token to every request
