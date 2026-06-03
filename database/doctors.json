@@ -1,0 +1,799 @@
+[
+  {
+    "_id": {
+      "$oid": "665d00000000000000000001"
+    },
+    "name": "Rajan Kumar",
+    "specialization": "Cardiology",
+    "experience": 15,
+    "hospitalId": "664a00000000000000000001",
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30"
+    ],
+    "workingHours": "09:00 AM - 01:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d00000000000000000002"
+    },
+    "name": "Priya Suresh",
+    "specialization": "Gynecology",
+    "experience": 12,
+    "hospitalId": "664a00000000000000000001",
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30",
+      "17:00",
+      "17:30"
+    ],
+    "workingHours": "02:00 PM - 06:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d00000000000000000003"
+    },
+    "name": "Senthil Murugan",
+    "specialization": "Neurology",
+    "experience": 18,
+    "hospitalId": "664a00000000000000000001",
+    "availableDays": [
+      "Tuesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "availableTimeSlots": [
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30"
+    ],
+    "workingHours": "09:00 AM - 01:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d00000000000000000004"
+    },
+    "name": "Anitha Krishnamurthy",
+    "specialization": "Orthopedics",
+    "experience": 10,
+    "hospitalId": "664a00000000000000000002",
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30"
+    ],
+    "workingHours": "09:00 AM - 01:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d00000000000000000005"
+    },
+    "name": "Vijay Sukumar",
+    "specialization": "Dermatology",
+    "experience": 8,
+    "hospitalId": "664a00000000000000000002",
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30"
+    ],
+    "workingHours": "02:00 PM - 05:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d00000000000000000006"
+    },
+    "name": "Meena Chandrasekaran",
+    "specialization": "Pediatrics",
+    "experience": 14,
+    "hospitalId": "664a00000000000000000003",
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30"
+    ],
+    "workingHours": "09:00 AM - 01:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d00000000000000000007"
+    },
+    "name": "Karthik Natarajan",
+    "specialization": "ENT",
+    "experience": 9,
+    "hospitalId": "664a00000000000000000003",
+    "availableDays": [
+      "Tuesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "availableTimeSlots": [
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30",
+      "17:00",
+      "17:30"
+    ],
+    "workingHours": "02:00 PM - 06:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d00000000000000000008"
+    },
+    "name": "Lakshmi Venkatesh",
+    "specialization": "Ophthalmology",
+    "experience": 11,
+    "hospitalId": "664a00000000000000000004",
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30"
+    ],
+    "workingHours": "09:00 AM - 12:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d00000000000000000009"
+    },
+    "name": "Arun Balakrishnan",
+    "specialization": "Psychiatry",
+    "experience": 13,
+    "hospitalId": "664a00000000000000000004",
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30",
+      "17:00"
+    ],
+    "workingHours": "02:00 PM - 05:30 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d0000000000000000000a"
+    },
+    "name": "Divya Ramachandran",
+    "specialization": "Urology",
+    "experience": 16,
+    "hospitalId": "664a00000000000000000005",
+    "availableDays": [
+      "Tuesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "availableTimeSlots": [
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30"
+    ],
+    "workingHours": "09:00 AM - 01:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d0000000000000000000b"
+    },
+    "name": "Prakash Sundaram",
+    "specialization": "Gastroenterology",
+    "experience": 12,
+    "hospitalId": "664a00000000000000000005",
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30",
+      "17:00",
+      "17:30"
+    ],
+    "workingHours": "02:00 PM - 06:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d0000000000000000000c"
+    },
+    "name": "Saranya Murugesan",
+    "specialization": "Pulmonology",
+    "experience": 7,
+    "hospitalId": "664a00000000000000000006",
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30"
+    ],
+    "workingHours": "09:00 AM - 01:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d0000000000000000000d"
+    },
+    "name": "Balamurugan Pillai",
+    "specialization": "Oncology",
+    "experience": 20,
+    "hospitalId": "664a00000000000000000006",
+    "availableDays": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "availableTimeSlots": [
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30"
+    ],
+    "workingHours": "09:00 AM - 01:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d0000000000000000000e"
+    },
+    "name": "Nithya Shankar",
+    "specialization": "Endocrinology",
+    "experience": 11,
+    "hospitalId": "664a00000000000000000007",
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30",
+      "17:00",
+      "17:30"
+    ],
+    "workingHours": "02:00 PM - 06:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d0000000000000000000f"
+    },
+    "name": "Suresh Pandi",
+    "specialization": "General Medicine",
+    "experience": 6,
+    "hospitalId": "664a00000000000000000007",
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "availableTimeSlots": [
+      "08:00",
+      "08:30",
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30"
+    ],
+    "workingHours": "08:00 AM - 01:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d00000000000000000010"
+    },
+    "name": "Kavitha Subramanian",
+    "specialization": "Cardiology",
+    "experience": 17,
+    "hospitalId": "664a00000000000000000008",
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30"
+    ],
+    "workingHours": "09:00 AM - 01:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d00000000000000000011"
+    },
+    "name": "Rajesh Gopal",
+    "specialization": "Orthopedics",
+    "experience": 14,
+    "hospitalId": "664a00000000000000000008",
+    "availableDays": [
+      "Tuesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "availableTimeSlots": [
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30",
+      "17:00",
+      "17:30"
+    ],
+    "workingHours": "02:00 PM - 06:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d00000000000000000012"
+    },
+    "name": "Indira Mohan",
+    "specialization": "Dermatology",
+    "experience": 9,
+    "hospitalId": "664a00000000000000000009",
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30"
+    ],
+    "workingHours": "09:00 AM - 12:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d00000000000000000013"
+    },
+    "name": "Selvakumar Arumugam",
+    "specialization": "Neurology",
+    "experience": 15,
+    "hospitalId": "664a00000000000000000009",
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30",
+      "17:00",
+      "17:30"
+    ],
+    "workingHours": "02:00 PM - 06:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d00000000000000000014"
+    },
+    "name": "Geetha Krishnan",
+    "specialization": "Gynecology",
+    "experience": 13,
+    "hospitalId": "664a0000000000000000000a",
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30"
+    ],
+    "workingHours": "09:00 AM - 01:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d00000000000000000015"
+    },
+    "name": "Mahesh Babu Venkataraman",
+    "specialization": "Urology",
+    "experience": 10,
+    "hospitalId": "664a0000000000000000000a",
+    "availableDays": [
+      "Tuesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "availableTimeSlots": [
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30"
+    ],
+    "workingHours": "02:00 PM - 05:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d00000000000000000016"
+    },
+    "name": "Preethi Narayanan",
+    "specialization": "Pediatrics",
+    "experience": 8,
+    "hospitalId": "664a0000000000000000000b",
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30"
+    ],
+    "workingHours": "09:00 AM - 01:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d00000000000000000017"
+    },
+    "name": "Venkatesh Iyer",
+    "specialization": "Gastroenterology",
+    "experience": 16,
+    "hospitalId": "664a0000000000000000000b",
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30",
+      "17:00",
+      "17:30"
+    ],
+    "workingHours": "02:00 PM - 06:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d00000000000000000018"
+    },
+    "name": "Sudha Rajan",
+    "specialization": "Ophthalmology",
+    "experience": 12,
+    "hospitalId": "664a0000000000000000000c",
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "availableTimeSlots": [
+      "08:00",
+      "08:30",
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30"
+    ],
+    "workingHours": "08:00 AM - 01:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d00000000000000000019"
+    },
+    "name": "Hariharan Pillai",
+    "specialization": "ENT",
+    "experience": 11,
+    "hospitalId": "664a0000000000000000000c",
+    "availableDays": [
+      "Tuesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "availableTimeSlots": [
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30"
+    ],
+    "workingHours": "02:00 PM - 05:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d0000000000000000001a"
+    },
+    "name": "Rekha Chandran",
+    "specialization": "Pulmonology",
+    "experience": 9,
+    "hospitalId": "664a0000000000000000000d",
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30"
+    ],
+    "workingHours": "09:00 AM - 01:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d0000000000000000001b"
+    },
+    "name": "Ganesh Sundaram",
+    "specialization": "Oncology",
+    "experience": 22,
+    "hospitalId": "664a0000000000000000000d",
+    "availableDays": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "availableTimeSlots": [
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30"
+    ],
+    "workingHours": "09:00 AM - 12:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d0000000000000000001c"
+    },
+    "name": "Malathi Velayutham",
+    "specialization": "Endocrinology",
+    "experience": 14,
+    "hospitalId": "664a0000000000000000000e",
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30",
+      "17:00",
+      "17:30"
+    ],
+    "workingHours": "02:00 PM - 06:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d0000000000000000001d"
+    },
+    "name": "Deepak Srinivasan",
+    "specialization": "General Medicine",
+    "experience": 5,
+    "hospitalId": "664a0000000000000000000e",
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "availableTimeSlots": [
+      "08:00",
+      "08:30",
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30",
+      "13:00",
+      "13:30"
+    ],
+    "workingHours": "08:00 AM - 02:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d0000000000000000001e"
+    },
+    "name": "Subashini Mani",
+    "specialization": "Psychiatry",
+    "experience": 10,
+    "hospitalId": "664a0000000000000000000f",
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "availableTimeSlots": [
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30"
+    ],
+    "workingHours": "09:00 AM - 01:00 PM"
+  },
+  {
+    "_id": {
+      "$oid": "665d0000000000000000001f"
+    },
+    "name": "Murugesan Thiyagarajan",
+    "specialization": "Cardiology",
+    "experience": 19,
+    "hospitalId": "664a0000000000000000000f",
+    "availableDays": [
+      "Tuesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "availableTimeSlots": [
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30",
+      "17:00",
+      "17:30"
+    ],
+    "workingHours": "02:00 PM - 06:00 PM"
+  }
+]

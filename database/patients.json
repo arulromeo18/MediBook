@@ -1,0 +1,68 @@
+[
+  {
+    "_id": {
+      "$oid": "667a00000000000000000001"
+    },
+    "name": "Arjun Sharma",
+    "email": "arjun.sharma@gmail.com",
+    "password": "$2a$10$xJP0gOHBt0jFoEFNaFQXsus8P.6vfxnlPqpYHhYKFGJaMQTPiMm2G",
+    "phone": "9876543210",
+    "age": 32,
+    "role": "ROLE_PATIENT"
+  },
+  {
+    "_id": {
+      "$oid": "667a00000000000000000002"
+    },
+    "name": "Priya Nair",
+    "email": "priya.nair@gmail.com",
+    "password": "$2a$10$xJP0gOHBt0jFoEFNaFQXsus8P.6vfxnlPqpYHhYKFGJaMQTPiMm2G",
+    "phone": "9876543211",
+    "age": 28,
+    "role": "ROLE_PATIENT"
+  },
+  {
+    "_id": {
+      "$oid": "667a00000000000000000003"
+    },
+    "name": "Suresh Babu",
+    "email": "suresh.babu@gmail.com",
+    "password": "$2a$10$xJP0gOHBt0jFoEFNaFQXsus8P.6vfxnlPqpYHhYKFGJaMQTPiMm2G",
+    "phone": "9876543212",
+    "age": 45,
+    "role": "ROLE_PATIENT"
+  },
+  {
+    "_id": {
+      "$oid": "667a00000000000000000004"
+    },
+    "name": "Ananya Krishnan",
+    "email": "ananya.k@gmail.com",
+    "password": "$2a$10$xJP0gOHBt0jFoEFNaFQXsus8P.6vfxnlPqpYHhYKFGJaMQTPiMm2G",
+    "phone": "9876543213",
+    "age": 23,
+    "role": "ROLE_PATIENT"
+  },
+  {
+    "_id": {
+      "$oid": "667a00000000000000000005"
+    },
+    "name": "Ramesh Pillai",
+    "email": "ramesh.pillai@yahoo.com",
+    "password": "$2a$10$xJP0gOHBt0jFoEFNaFQXsus8P.6vfxnlPqpYHhYKFGJaMQTPiMm2G",
+    "phone": "9876543214",
+    "age": 56,
+    "role": "ROLE_PATIENT"
+  },
+  {
+    "_id": {
+      "$oid": "667a00000000000000000006"
+    },
+    "name": "Admin User",
+    "email": "admin@hospital.com",
+    "password": "$2a$10$xJP0gOHBt0jFoEFNaFQXsus8P.6vfxnlPqpYHhYKFGJaMQTPiMm2G",
+    "phone": "9000000001",
+    "age": 35,
+    "role": "ROLE_ADMIN"
+  }
+]

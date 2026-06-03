@@ -1,0 +1,107 @@
+[
+  {
+    "_id": {
+      "$oid": "664a00000000000000000001"
+    },
+    "name": "Apollo Hospital",
+    "city": "Chennai"
+  },
+  {
+    "_id": {
+      "$oid": "664a00000000000000000002"
+    },
+    "name": "Apollo Hospital",
+    "city": "Coimbatore"
+  },
+  {
+    "_id": {
+      "$oid": "664a00000000000000000003"
+    },
+    "name": "Fortis Hospital",
+    "city": "Chennai"
+  },
+  {
+    "_id": {
+      "$oid": "664a00000000000000000004"
+    },
+    "name": "MIOT International",
+    "city": "Chennai"
+  },
+  {
+    "_id": {
+      "$oid": "664a00000000000000000005"
+    },
+    "name": "PSG Hospital",
+    "city": "Coimbatore"
+  },
+  {
+    "_id": {
+      "$oid": "664a00000000000000000006"
+    },
+    "name": "Kovai Medical Center",
+    "city": "Coimbatore"
+  },
+  {
+    "_id": {
+      "$oid": "664a00000000000000000007"
+    },
+    "name": "Sri Ramachandra Hospital",
+    "city": "Chennai"
+  },
+  {
+    "_id": {
+      "$oid": "664a00000000000000000008"
+    },
+    "name": "Meenakshi Mission Hospital",
+    "city": "Madurai"
+  },
+  {
+    "_id": {
+      "$oid": "664a00000000000000000009"
+    },
+    "name": "G. Kuppuswamy Naidu Hospital",
+    "city": "Coimbatore"
+  },
+  {
+    "_id": {
+      "$oid": "664a0000000000000000000a"
+    },
+    "name": "KG Hospital",
+    "city": "Coimbatore"
+  },
+  {
+    "_id": {
+      "$oid": "664a0000000000000000000b"
+    },
+    "name": "Rajiv Gandhi Government Hospital",
+    "city": "Chennai"
+  },
+  {
+    "_id": {
+      "$oid": "664a0000000000000000000c"
+    },
+    "name": "Aravind Eye Hospital",
+    "city": "Madurai"
+  },
+  {
+    "_id": {
+      "$oid": "664a0000000000000000000d"
+    },
+    "name": "Vijaya Hospital",
+    "city": "Chennai"
+  },
+  {
+    "_id": {
+      "$oid": "664a0000000000000000000e"
+    },
+    "name": "Velammal Medical College Hospital",
+    "city": "Madurai"
+  },
+  {
+    "_id": {
+      "$oid": "664a0000000000000000000f"
+    },
+    "name": "Stanley Medical College Hospital",
+    "city": "Chennai"
+  }
+]
