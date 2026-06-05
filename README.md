@@ -2,6 +2,22 @@
 
 ## Live Demo
 https://medi-book-weld.vercel.app
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
+
+### 👨‍⚕️ Doctors Page
+![Doctors Page](screenshots/doctor.png)
+
+### 📅 Appointment Booking
+![Appointment Booking](screenshots/appointment.png)
+
+### 🛠️ Admin Dashboard
+![Admin Dashboard](screenshots/admin.png)
 
 ## Overview
 MediBook is a full-stack hospital appointment booking system that enables patients to book appointments with doctors online while providing management features for hospitals and administrators.
