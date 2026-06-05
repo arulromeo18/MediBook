@@ -11,7 +11,7 @@ https://medi-book-weld.vercel.app
 ![Login Page](screenshots/login.png)
 
 ### 👨‍⚕️ Doctors Page
-![Doctors Page](screenshots/doctor.png)
+![Doctors Page](screenshots/doctors.png)
 
 ### 📅 Appointment Booking
 ![Appointment Booking](screenshots/appointment.png)
