@@ -1,49 +1,82 @@
-MediBook – Hospital Appointment Booking System 🏥
+# 🏥 MediBook - Hospital Appointment Booking System
 
-🌐 Live Demo
+## Live Demo
 https://medi-book-weld.vercel.app
 
-A full stack web application that enables patients to book appointments with doctors efficiently, with complete management for hospitals, doctors, and appointments.
+## Overview
+MediBook is a full-stack hospital appointment booking system that enables patients to book appointments with doctors online while providing management features for hospitals and administrators.
 
-✨ Features
--🔐 JWT Authentication (Register/Login)
--👨‍⚕️ Doctor Management – Browse by specialization and hospital
--📅 Appointment Booking – Book, view, and manage appointments
--🗓️ Doctor Scheduling – Doctors can manage their availability
--🛠️ Admin Panel – Control over hospitals, doctors, and appointments
--🔍 Search Functionality – Search doctors and hospitals with suggestions
+## Features
+- JWT Authentication (Register/Login)
+- Doctor Management
+- Appointment Booking
+- Doctor Scheduling
+- Admin Dashboard
+- Search Functionality
 
-🛠️ Tech Stack
-Frontend: React.js, HTML, CSS
-Backend: Java, Spring Boot, REST APIs
-Database: MongoDB
-Auth: JWT Authentication
+## Tech Stack
 
-🚀 Setup
-1. Clone the repository
-git clone https://github.com/arulromeo18/medibook
-2. Start the backend
+### Frontend
+- React.js
+- HTML
+- CSS
+
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+
+### Database
+- MongoDB
+
+### Authentication
+- JWT
+
+## Project Structure
+
+```text
+MediBook/
+├── hospital-frontend/
+│   ├── src/
+│   └── public/
+│
+├── hospitalsystem/
+│   ├── controller/
+│   ├── service/
+│   ├── model/
+│   └── repository/
+│
+└── database/
+```
+
+## Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/arulromeo18/MediBook.git
+```
+
+### Run Backend
+
+```bash
 cd hospitalsystem
 ./mvnw spring-boot:run
-3. Start the frontend
+```
+
+### Run Frontend
+
+```bash
 cd hospital-frontend
 npm install
 npm start
-Runs on http://localhost:3000
+```
 
-📁 Project Structure
-medibook/
-├── hospital-frontend/        # React frontend
-│   ├── src/
-│   └── public/
-└── hospitalsystem/           # Spring Boot backend
-    └── src/main/java/com/hospital/
-        ├── controller/       # REST API controllers
-        ├── service/          # Business logic
-        ├── model/            # Data models
-        ├── repository/       # MongoDB repositories
-        └── security/         # JWT authentication
+## Future Enhancements
+- Email Notifications
+- Payment Integration
+- Video Consultation
+- Prescription Management
 
-👨‍💻 Author
-GitHub: https://github.com/arulromeo18
-LinkedIn: https://linkedin.com/in/arulkumar-v-a9b406387
+## Author
+Arul Kumar V
