@@ -5,7 +5,7 @@ https://medi-book-weld.vercel.app
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home1.png)
 
 ### 🔐 Login Page
 ![Login Page](screenshots/login.png)
